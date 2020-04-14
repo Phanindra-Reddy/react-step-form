@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-step-form/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-step-form/static/js/main.733dec46.chunk.js",
+    "main.js.map": "/react-step-form/static/js/main.733dec46.chunk.js.map",
+    "runtime-main.js": "/react-step-form/static/js/runtime-main.d31a1c78.js",
+    "runtime-main.js.map": "/react-step-form/static/js/runtime-main.d31a1c78.js.map",
+    "static/js/2.08ef082f.chunk.js": "/react-step-form/static/js/2.08ef082f.chunk.js",
+    "static/js/2.08ef082f.chunk.js.map": "/react-step-form/static/js/2.08ef082f.chunk.js.map",
+    "index.html": "/react-step-form/index.html",
+    "precache-manifest.61c8bbdb65a3982c75ddf77a1905687c.js": "/react-step-form/precache-manifest.61c8bbdb65a3982c75ddf77a1905687c.js",
+    "service-worker.js": "/react-step-form/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-step-form/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.08ef082f.chunk.js.LICENSE": "/react-step-form/static/js/2.08ef082f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react-step-form/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31a1c78.js",
+    "static/js/2.08ef082f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.733dec46.chunk.js"
+  ]
+}
